@@ -11,4 +11,5 @@ Data set was taken from the University of California, Irivine (UCI) Machine Lear
 https://archive.ics.uci.edu/dataset/249/first+order+theorem+proving
 
 Refer to the mini report and the jupyter notebook attached, for further details.
+Website for the same: https://sites.google.com/ipu.ac.in/mlproject-adamya/home?authuser=2
 ##### Feel free to contact, for any suggestions, clearances.☺️
