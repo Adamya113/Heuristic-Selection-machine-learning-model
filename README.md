@@ -10,5 +10,5 @@ The accuracy received at end of the training was quite up to the mark, as select
 Data set was taken from the University of California, Irivine (UCI) Machine Learning Repository. The link to the source is attached below:
 https://archive.ics.uci.edu/dataset/249/first+order+theorem+proving
 
-## Refer to the mini report and the jupyter notebook attached, for further details.
-## Feel free to contact, for any suggestions, clearances.
+Refer to the mini report and the jupyter notebook attached, for further details.
+##### Feel free to contact, for any suggestions, clearances.☺️
